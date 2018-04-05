@@ -9,8 +9,8 @@ module MprtadLotto
         expect(draw).to be_a(Array)
       end
 
-      it "returns and array with 5 elements" do
-        expect(draw.size).to eq(5)
+      it "returns and array with 6 elements" do
+        expect(draw.size).to eq(6)
       end
 
       it "has all the values as integers" do
