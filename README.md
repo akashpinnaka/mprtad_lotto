@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MprtadLotto::Drawing.new.draw # => [24, 53, 23, 1, 48]
+```
 
 ## Development
 
